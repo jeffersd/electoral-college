@@ -1,0 +1,352 @@
+[
+    {
+        "state": "California",
+        "population estimate": 39512223,
+        "population": 37254523,
+        "seats": 53,
+        "color": "blue"
+    },
+    {
+        "state": "Texas",
+        "population estimate": 28995881,
+        "population": 25145561,
+        "seats": 36,
+        "color": "red"
+    },
+    {
+        "state": "Florida",
+        "population estimate": 21477737,
+        "population": 18801310,
+        "seats": 27,
+        "color": "battleground"
+    },
+    {
+        "state": "New York",
+        "population estimate": 19453561,
+        "population": 19378102,
+        "seats": 27,
+        "color": "blue"
+    },
+    {
+        "state": "Pennsylvania",
+        "population estimate": 12801989,
+        "population": 12702379,
+        "seats": 18,
+        "color": "battleground"
+    },
+    {
+        "state": "Illinois",
+        "population estimate": 12671821,
+        "population": 12830632,
+        "seats": 18,
+        "color": "blue"
+    },
+    {
+        "state": "Ohio",
+        "population estimate": 11689100,
+        "population": 11536504,
+        "seats": 16,
+        "color": "battleground"
+    },
+    {
+        "state": "Georgia",
+        "population estimate": 10617423,
+        "population": 9687653,
+        "seats": 14,
+        "color": "battleground"
+    },
+    {
+        "state": "North Carolina",
+        "population estimate": 10488084,
+        "population": 9535483,
+        "seats": 13,
+        "color": "battleground"
+    },
+    {
+        "state": "Michigan",
+        "population estimate": 9986857,
+        "population": 9883640,
+        "seats": 14,
+        "color": "battleground"
+    },
+    {
+        "state": "New Jersey",
+        "population estimate": 8882190,
+        "population": 8791894,
+        "seats": 12,
+        "color": "blue"
+    },
+    {
+        "state": "Virginia",
+        "population estimate": 8535519,
+        "population": 8001024,
+        "seats": 11,
+        "color": "blue"
+    },
+    {
+        "state": "Washington",
+        "population estimate": 7614893,
+        "population": 6724540,
+        "seats": 10,
+        "color": "blue"
+    },
+    {
+        "state": "Arizona",
+        "population estimate": 7278717,
+        "population": 6392017,
+        "seats": 9,
+        "color": "battleground"
+    },
+    {
+        "state": "Massachusetts",
+        "population estimate": 6949503,
+        "population": 6547629,
+        "seats": 9,
+        "color": "blue"
+    },
+    {
+        "state": "Tennessee",
+        "population estimate": 6833174,
+        "population": 6346105,
+        "seats": 9,
+        "color": "red"
+    },
+    {
+        "state": "Indiana",
+        "population estimate": 6732219,
+        "population": 6483802,
+        "seats": 9,
+        "color": "red"
+    },
+    {
+        "state": "Missouri",
+        "population estimate": 6137428,
+        "population": 5988927,
+        "seats": 8,
+        "color": "red"
+    },
+    {
+        "state": "Maryland",
+        "population estimate": 6045680,
+        "population": 5773552,
+        "seats": 8,
+        "color": "blue"
+    },
+    {
+        "state": "Wisconsin",
+        "population estimate": 5822434,
+        "population": 5686986,
+        "seats": 8,
+        "color": "battleground"
+    },
+    {
+        "state": "Colorado",
+        "population estimate": 5758736,
+        "population": 5029196,
+        "seats": 7,
+        "color": "blue"
+    },
+    {
+        "state": "Minnesota",
+        "population estimate": 5639632,
+        "population": 5303925,
+        "seats": 8,
+        "color": "blue"
+    },
+    {
+        "state": "South Carolina",
+        "population estimate": 5148714,
+        "population": 4625364,
+        "seats": 7,
+        "color": "red"
+    },
+    {
+        "state": "Alabama",
+        "population estimate": 4903185,
+        "population": 4779736,
+        "seats": 7,
+        "color": "red"
+    },
+    {
+        "state": "Louisiana",
+        "population estimate": 4648794,
+        "population": 4533372,
+        "seats": 6,
+        "color": "red"
+    },
+    {
+        "state": "Kentucky",
+        "population estimate": 4467673,
+        "population": 4339367,
+        "seats": 6,
+        "color": "red"
+    },
+    {
+        "state": "Oregon",
+        "population estimate": 4217737,
+        "population": 3831074,
+        "seats": 5,
+        "color": "blue"
+    },
+    {
+        "state": "Oklahoma",
+        "population estimate": 3956971,
+        "population": 3751351,
+        "seats": 5,
+        "color": "red"
+    },
+    {
+        "state": "Connecticut",
+        "population estimate": 3565287,
+        "population": 3574097,
+        "seats": 5,
+        "color": "blue"
+    },
+    {
+        "state": "Utah",
+        "population estimate": 3205958,
+        "population": 2763885,
+        "seats": 4,
+        "color": "red"
+    },
+    {
+        "state": "Iowa",
+        "population estimate": 3155070,
+        "population": 3046355,
+        "seats": 4,
+        "color": "battleground"
+    },
+    {
+        "state": "Nevada",
+        "population estimate": 3080156,
+        "population": 2700551,
+        "seats": 4,
+        "color": "battleground"
+    },
+    {
+        "state": "Arkansas",
+        "population estimate": 3017825,
+        "population": 2915918,
+        "seats": 4,
+        "color": "red"
+    },
+    {
+        "state": "Mississippi",
+        "population estimate": 2976149,
+        "population": 2967297,
+        "seats": 4,
+        "color": "red"
+    },
+    {
+        "state": "Kansas",
+        "population estimate": 2913314,
+        "population": 2853118,
+        "seats": 4,
+        "color": "red"
+    },
+    {
+        "state": "New Mexico",
+        "population estimate": 2096829,
+        "population": 2059179,
+        "seats": 3,
+        "color": "blue"
+    },
+    {
+        "state": "Nebraska",
+        "population estimate": 1934408,
+        "population": 1826341,
+        "seats": 3,
+        "color": "red"
+    },
+    {
+        "state": "Idaho",
+        "population estimate": 1787065,
+        "population": 1567582,
+        "seats": 2,
+        "color": "red"
+    },
+    {
+        "state": "West Virginia",
+        "population estimate": 1792147,
+        "population": 1852994,
+        "seats": 3,
+        "color": "red"
+    },
+    {
+        "state": "Hawaii",
+        "population estimate": 1415872,
+        "population": 1360301,
+        "seats": 2,
+        "color": "blue"
+    },
+    {
+        "state": "New Hampshire",
+        "population estimate": 1359711,
+        "population": 1316470,
+        "seats": 2,
+        "color": "blue"
+    },
+    {
+        "state": "Maine",
+        "population estimate": 1344212,
+        "population": 1328361,
+        "seats": 2,
+        "color": "red"
+    },
+    {
+        "state": "Montana",
+        "population estimate": 1068778,
+        "population": 989415,
+        "seats": 1,
+        "color": "red"
+    },
+    {
+        "state": "Rhode Island",
+        "population estimate": 1059361,
+        "population": 1052567,
+        "seats": 2,
+        "color": "blue"
+    },
+    {
+        "state": "Delaware",
+        "population estimate": 973764,
+        "population": 897934,
+        "seats": 1,
+        "color": "blue"
+    },
+    {
+        "state": "South Dakota",
+        "population estimate": 884659,
+        "population": 814180,
+        "seats": 1,
+        "color": "red"
+    },
+    {
+        "state": "North Dakota",
+        "population estimate": 762062,
+        "population": 672591,
+        "seats": 1,
+        "color": "red"
+    },
+    {
+        "state": "Alaska",
+        "population estimate": 731545,
+        "population": 710231,
+        "seats": 1,
+        "color": "red"
+    },
+    {
+        "state": "Vermont",
+        "population estimate": 623989,
+        "population": 625741,
+        "seats": 1,
+        "color": "blue"
+    },
+    {
+        "state": "Wyoming",
+        "population estimate": 578759,
+        "population": 563626,
+        "seats": 1,
+        "color": "red"
+    }
+]
