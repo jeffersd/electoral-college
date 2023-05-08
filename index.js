@@ -20,8 +20,7 @@ function getNextState (states) {
     };
 
     states.forEach((state) => {
-        const newPriority = calculatePriority(state.state, state["population estimate"], state.seats);
-        //const newPriority = calculatePriority(state.state, state.population, state.seats);
+        const newPriority = calculatePriority(state.state, state["2020 population"], state.seats);
 
         if (maxState.priority < newPriority) {
             maxState = state;
@@ -41,43 +40,51 @@ function getNextState (states) {
     return maxState;
 }
 
-const data = require("./state_data.json");
-const newStates = initializeSeats(data);
+function calculateAdditionalElectoralVotes (stateData, newElectoralVotes) {
+    let redCount = 0,
+        blueCount = 0,
+        purpleCount = 0;
 
-const remainingElectoralVotes = (535 - 100 - 50); // 385
+    console.log("------ now these states would get new electoral votes -----");
+
+    for (let i = 0; i < newElectoralVotes; i++) {
+        let newState = getNextState(newStates);
+
+
+
+        if (newState.state === "Maine") {
+            console.log("maine is here!");
+            console.log(newState.color);
+        }
+        if (newState.state === "Puerto Rico") {
+            console.log("Puerto Rico is here!");
+            console.log(newState.color);
+        }
+
+
+        if (newState.color === "red") {
+            redCount++;
+        } else if (newState.color === "blue") {
+            blueCount++;
+        } else {
+            purpleCount++;
+        }
+    }
+
+    console.log(`red state increase: ${redCount}`);
+    console.log(`blue state increase: ${blueCount}`);
+    console.log(`purple state increase: ${purpleCount}`);
+}
+
+
+
+//start
+const stateData = require("./state_data.json");
+const newStates = initializeSeats(stateData);
+const remainingElectoralVotes = (535 - 100 - stateData.length); // 385
 
 for (let i = 0; i < remainingElectoralVotes; i++) {
     getNextState(newStates);
 }
 
-//console.log("break ------ now these states would get new electoral votes -----");
-
-let redCount = 0,
-    blueCount = 0,
-    swingCount = 0;
-
-for (let i = 0; i < 65; i++) {
-    let newState = getNextState(newStates);
-
-
-
-    if (newState.state === "Maine") {
-        console.log("maine is here!");
-        console.log(newState.color);
-    }
-    if (newState.state === "Puerto Rico") {
-        console.log("Puerto Rico is here!");
-        console.log(newState.color);
-    }
-
-
-    if (newState.color === "red") {
-        redCount++;
-    } else if (newState.color === "blue") {
-        blueCount++;
-    } else {
-        swingCount++;
-    }
-}
-
-console.log(`red state increase: ${redCount}\nblue state increase: ${blueCount}\nswing state increase: ${swingCount}`);
+console.log(JSON.stringify(newStates, null, 2));

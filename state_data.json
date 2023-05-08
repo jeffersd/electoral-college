@@ -2,350 +2,400 @@
     {
         "state": "California",
         "population estimate": 39512223,
-        "population": 37254523,
-        "seats": 53,
+        "2010 population": 37254523,
+        "2020 population": 39538223,
+        "seats": 52,
         "color": "blue"
     },
     {
         "state": "Texas",
         "population estimate": 28995881,
-        "population": 25145561,
-        "seats": 36,
+        "2010 population": 25145561,
+        "2020 population": 29145505,
+        "seats": 38,
         "color": "red"
     },
     {
         "state": "Florida",
         "population estimate": 21477737,
-        "population": 18801310,
-        "seats": 27,
-        "color": "battleground"
+        "2010 population": 18801310,
+        "2020 population": 21538187,
+        "seats": 28,
+        "color": "red"
     },
     {
         "state": "New York",
         "population estimate": 19453561,
-        "population": 19378102,
-        "seats": 27,
+        "2010 population": 19378102,
+        "2020 population": 20201249,
+        "seats": 26,
         "color": "blue"
     },
     {
         "state": "Pennsylvania",
         "population estimate": 12801989,
-        "population": 12702379,
-        "seats": 18,
-        "color": "battleground"
+        "2010 population": 12702379,
+        "2020 population": 13002700,
+        "seats": 17,
+        "color": "purple"
     },
     {
         "state": "Illinois",
         "population estimate": 12671821,
-        "population": 12830632,
-        "seats": 18,
+        "2010 population": 12830632,
+        "2020 population": 12812508,
+        "seats": 17,
         "color": "blue"
     },
     {
         "state": "Ohio",
         "population estimate": 11689100,
-        "population": 11536504,
-        "seats": 16,
-        "color": "battleground"
+        "2010 population": 11536504,
+        "2020 population": 11799448,
+        "seats": 15,
+        "color": "red"
     },
     {
         "state": "Georgia",
         "population estimate": 10617423,
-        "population": 9687653,
+        "2010 population": 9687653,
+        "2020 population": 10711908,
         "seats": 14,
-        "color": "battleground"
+        "color": "purple"
     },
     {
         "state": "North Carolina",
         "population estimate": 10488084,
-        "population": 9535483,
-        "seats": 13,
-        "color": "battleground"
+        "2010 population": 9535483,
+        "2020 population": 10439388,
+        "seats": 14,
+        "color": "purple"
     },
     {
         "state": "Michigan",
         "population estimate": 9986857,
-        "population": 9883640,
-        "seats": 14,
-        "color": "battleground"
+        "2010 population": 9883640,
+        "2020 population": 10077331,
+        "seats": 13,
+        "color": "purple"
     },
     {
         "state": "New Jersey",
         "population estimate": 8882190,
-        "population": 8791894,
+        "2010 population": 8791894,
+        "2020 population": 9288994,
         "seats": 12,
         "color": "blue"
     },
     {
         "state": "Virginia",
         "population estimate": 8535519,
-        "population": 8001024,
+        "2010 population": 8001024,
+        "2020 population": 8631393,
         "seats": 11,
-        "color": "blue"
+        "color": "purple"
     },
     {
         "state": "Washington",
         "population estimate": 7614893,
-        "population": 6724540,
+        "2010 population": 6724540,
+        "2020 population": 7705281,
         "seats": 10,
         "color": "blue"
     },
     {
         "state": "Arizona",
         "population estimate": 7278717,
-        "population": 6392017,
+        "2010 population": 6392017,
+        "2020 population": 7151502,
         "seats": 9,
-        "color": "battleground"
+        "color": "purple"
     },
     {
         "state": "Massachusetts",
         "population estimate": 6949503,
-        "population": 6547629,
+        "2010 population": 6547629,
+        "2020 population": 7029917,
         "seats": 9,
         "color": "blue"
     },
     {
         "state": "Tennessee",
         "population estimate": 6833174,
-        "population": 6346105,
+        "2010 population": 6346105,
+        "2020 population": 6910840,
         "seats": 9,
         "color": "red"
     },
     {
         "state": "Indiana",
         "population estimate": 6732219,
-        "population": 6483802,
+        "2010 population": 6483802,
+        "2020 population": 6785528,
         "seats": 9,
         "color": "red"
     },
     {
         "state": "Missouri",
         "population estimate": 6137428,
-        "population": 5988927,
+        "2010 population": 5988927,
+        "2020 population": 6154913,
         "seats": 8,
         "color": "red"
     },
     {
         "state": "Maryland",
         "population estimate": 6045680,
-        "population": 5773552,
+        "2010 population": 5773552,
+        "2020 population": 6177224,
         "seats": 8,
         "color": "blue"
     },
     {
         "state": "Wisconsin",
         "population estimate": 5822434,
-        "population": 5686986,
+        "2010 population": 5686986,
+        "2020 population": 5893718,
         "seats": 8,
-        "color": "battleground"
+        "color": "purple"
     },
     {
         "state": "Colorado",
         "population estimate": 5758736,
-        "population": 5029196,
-        "seats": 7,
+        "2010 population": 5029196,
+        "2020 population": 5773714,
+        "seats": 8,
         "color": "blue"
     },
     {
         "state": "Minnesota",
         "population estimate": 5639632,
-        "population": 5303925,
+        "2010 population": 5303925,
+        "2020 population": 5706494,
         "seats": 8,
-        "color": "blue"
+        "color": "purple"
     },
     {
         "state": "South Carolina",
         "population estimate": 5148714,
-        "population": 4625364,
+        "2010 population": 4625364,
+        "2020 population": 5118425,
         "seats": 7,
         "color": "red"
     },
     {
         "state": "Alabama",
         "population estimate": 4903185,
-        "population": 4779736,
+        "2010 population": 4779736,
+        "2020 population": 5024279,
         "seats": 7,
         "color": "red"
     },
     {
         "state": "Louisiana",
         "population estimate": 4648794,
-        "population": 4533372,
+        "2010 population": 4533372,
+        "2020 population": 4657757,
         "seats": 6,
         "color": "red"
     },
     {
         "state": "Kentucky",
         "population estimate": 4467673,
-        "population": 4339367,
+        "2010 population": 4339367,
+        "2020 population": 4505836,
         "seats": 6,
         "color": "red"
     },
     {
         "state": "Oregon",
         "population estimate": 4217737,
-        "population": 3831074,
-        "seats": 5,
+        "2010 population": 3831074,
+        "2020 population": 4237256,
+        "seats": 6,
         "color": "blue"
     },
     {
         "state": "Oklahoma",
         "population estimate": 3956971,
-        "population": 3751351,
+        "2010 population": 3751351,
+        "2020 population": 3959353,
         "seats": 5,
         "color": "red"
     },
     {
         "state": "Connecticut",
         "population estimate": 3565287,
-        "population": 3574097,
+        "2010 population": 3574097,
+        "2020 population": 3605944,
         "seats": 5,
         "color": "blue"
     },
     {
         "state": "Utah",
         "population estimate": 3205958,
-        "population": 2763885,
+        "2010 population": 2763885,
+        "2020 population": 3271616,
         "seats": 4,
         "color": "red"
     },
     {
         "state": "Iowa",
         "population estimate": 3155070,
-        "population": 3046355,
+        "2010 population": 3046355,
+        "2020 population": 3190369,
         "seats": 4,
-        "color": "battleground"
+        "color": "red"
     },
     {
         "state": "Nevada",
         "population estimate": 3080156,
-        "population": 2700551,
+        "2010 population": 2700551,
+        "2020 population": 3104614,
         "seats": 4,
-        "color": "battleground"
+        "color": "purple"
     },
     {
         "state": "Arkansas",
         "population estimate": 3017825,
-        "population": 2915918,
+        "2010 population": 2915918,
+        "2020 population": 3011524,
         "seats": 4,
         "color": "red"
     },
     {
         "state": "Mississippi",
         "population estimate": 2976149,
-        "population": 2967297,
+        "2010 population": 2967297,
+        "2020 population": 2961279,
         "seats": 4,
         "color": "red"
     },
     {
         "state": "Kansas",
         "population estimate": 2913314,
-        "population": 2853118,
+        "2010 population": 2853118,
+        "2020 population": 2937880,
         "seats": 4,
         "color": "red"
     },
     {
         "state": "New Mexico",
         "population estimate": 2096829,
-        "population": 2059179,
+        "2010 population": 2059179,
+        "2020 population": 2117522,
         "seats": 3,
         "color": "blue"
     },
     {
         "state": "Nebraska",
         "population estimate": 1934408,
-        "population": 1826341,
+        "2010 population": 1826341,
+        "2020 population": 1961504,
         "seats": 3,
         "color": "red"
     },
     {
         "state": "Idaho",
         "population estimate": 1787065,
-        "population": 1567582,
+        "2010 population": 1567582,
+        "2020 population": 1839106,
         "seats": 2,
         "color": "red"
     },
     {
         "state": "West Virginia",
         "population estimate": 1792147,
-        "population": 1852994,
-        "seats": 3,
+        "2010 population": 1852994,
+        "2020 population": 1793716,
+        "seats": 2,
         "color": "red"
     },
     {
         "state": "Hawaii",
         "population estimate": 1415872,
-        "population": 1360301,
+        "2010 population": 1360301,
+        "2020 population": 1455271,
         "seats": 2,
         "color": "blue"
     },
     {
         "state": "New Hampshire",
         "population estimate": 1359711,
-        "population": 1316470,
+        "2010 population": 1316470,
+        "2020 population": 1377529,
         "seats": 2,
         "color": "blue"
     },
     {
         "state": "Maine",
         "population estimate": 1344212,
-        "population": 1328361,
+        "2010 population": 1328361,
+        "2020 population": 1362359,
         "seats": 2,
-        "color": "red"
+        "color": "purple"
     },
     {
         "state": "Montana",
         "population estimate": 1068778,
-        "population": 989415,
-        "seats": 1,
+        "2010 population": 989415,
+        "2020 population": 1084225,
+        "seats": 2,
         "color": "red"
     },
     {
         "state": "Rhode Island",
         "population estimate": 1059361,
-        "population": 1052567,
+        "2010 population": 1052567,
+        "2020 population": 1097379,
         "seats": 2,
         "color": "blue"
     },
     {
         "state": "Delaware",
         "population estimate": 973764,
-        "population": 897934,
+        "2010 population": 897934,
+        "2020 population": 989948,
         "seats": 1,
         "color": "blue"
     },
     {
         "state": "South Dakota",
         "population estimate": 884659,
-        "population": 814180,
+        "2010 population": 814180,
+        "2020 population": 886667,
         "seats": 1,
         "color": "red"
     },
     {
         "state": "North Dakota",
         "population estimate": 762062,
-        "population": 672591,
+        "2010 population": 672591,
+        "2020 population": 779094,
         "seats": 1,
         "color": "red"
     },
     {
         "state": "Alaska",
         "population estimate": 731545,
-        "population": 710231,
+        "2010 population": 710231,
+        "2020 population": 733391,
         "seats": 1,
         "color": "red"
     },
     {
         "state": "Vermont",
         "population estimate": 623989,
-        "population": 625741,
+        "2010 population": 625741,
+        "2020 population": 643077,
         "seats": 1,
         "color": "blue"
     },
     {
         "state": "Wyoming",
         "population estimate": 578759,
-        "population": 563626,
+        "2010 population": 563626,
+        "2020 population": 576851,
         "seats": 1,
         "color": "red"
     }
